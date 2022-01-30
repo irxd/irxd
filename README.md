@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I'm a fullstack developer who loves tinker about creative things
+- 🌱 I'm currently focused on frontend side
+- 📖 I write sometimes at [irxd.dev](irxd.dev)
 
 <!--
 **irxd/irxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
