@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**irxd/irxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,5 +9,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
+<p align="center">
+  <img src="https://media.tenor.com/ZmZ7UKIc0soAAAAC/anonymous-anonymous-bites-back.gif" width="40%">
+  <br><br>
+  <samp>
+I'm Irsyad. A fullstack developer who loves tinker about creative things, I'm currently focused on frontend side. 
+<!--      <br><br>Contact me on <a href="https://twitter.com/surjithctly">Twitter</a> or <a href="mailto&#58;m&#97;i&#108;&#64;su&#114;&#106;&#105;&#116;&#37;68%63tly&#46;i%6E">Send an Email</a> -->
+  </samp>
+</p>
