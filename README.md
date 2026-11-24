@@ -15,7 +15,7 @@
 
 Hi, I'm **Irsyad** 👁️. I started out in 2016 as a **fullstack engineer**, working on everything from the database up to the UI. In 2020 I went all in on **frontend**, and that's what I've done since: React, Vue, and TypeScript at startups and big companies.
 
-Lately I've been getting interested in **game development** and the **PS Vita modding scene**. On the Vita side, I make a 2012 handheld do things it was never meant to do: translating Japanese-only games into English, porting games to it, and writing plugins for the system itself.
+Lately I've been getting interested in **creative web development**, **game development**, and the **PS Vita modding scene**. On the Vita side, I make a 2012 handheld do things it was never meant to do: translating Japanese-only games into English, porting games to it, and writing plugins for the system itself.
 
 When I'm not inside a screen, I'm usually holding a soldering iron. I experiment with microcontrollers, fix my own phones, laptops, PCs, and consoles, and I hand-wired the keyboard I'm typing this on.
 
