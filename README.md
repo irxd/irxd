@@ -1,15 +1,16 @@
-```
+<a name="shell"></a>
+<pre>
  shell                                                     ux0:/irxd/
  --------------------------------------------------------------------
    ..
- > about.txt                                                     1 KB
-   vita/                       translations, ports, plugins     <DIR>
-   workbench/                  keyboards, repairs               <DIR>
-   day_job/                    frontend · 10 yrs                <DIR>
-   side_quest/                 personal tools                   <DIR>
+ &gt; <a href="#-abouttxt">about.txt</a>                                                     1 KB
+   <a href="#-vita">vita/</a>                       translations, ports, plugins     &lt;DIR&gt;
+   <a href="#-workbench">workbench/</a>                  keyboards, repairs               &lt;DIR&gt;
+   <a href="#-day_job">day_job/</a>                    frontend · 10 yrs                &lt;DIR&gt;
+   <a href="#-side_quest">side_quest/</a>                 personal tools                   &lt;DIR&gt;
  --------------------------------------------------------------------
   (X) open    (O) back    (/\) menu    ([]) mark
-```
+</pre>
 
 ### `> about.txt`
 
@@ -85,8 +86,6 @@ Things I build because I want them to exist:
 
 ---
 
-```
- > (O) back to the surface
-```
+<pre><a href="#shell">&gt; (O) back to the surface</a></pre>
 
 [mhirsd.com](https://mhirsd.com) · <sub>[see more](https://youtu.be/dQw4w9WgXcQ)</sub>
