@@ -32,6 +32,7 @@ When I'm not inside a screen, I'm usually holding a soldering iron. I experiment
 | :-- | :-- | :-- |
 | 🈂️ Translation | [**Shin Gundam Musou EN**](https://github.com/irxd/shin-gundam-musou-en) | Full English patch for the Japan-only *Shin Gundam Musou*. ~66k strings, story, subtitled cutscenes, and a new proportional font. Patch it right in the browser |
 | 🈂️ Translation | [**Battride War Sousei EN**](https://github.com/irxd/battride-vita-en) | English patch for the Japan-only *Kamen Rider: Battride War Sousei*. ~9,200 lines, translated UI banners and name plates, subtitled movies. Patch it right in the browser |
+| 🈂️ Translation | [**Gundam Breaker EN**](https://github.com/irxd/gundam-breaker-vita-en) | English patch for the Japan-only *Gundam Breaker*. Missions, dialogue, part and weapon names, and ~350 redrawn UI textures. Patch it right in the browser |
 | 🎮 Port | [**Guitar Hero Vita**](https://github.com/irxd/guitar-hero-vita) | *Guitar Hero* (PS2, 2005) running natively on the Vita at 60 FPS, with rear-touch strumming and shake-for-whammy |
 | 🔌 Plugin | [**PadUnlock**](https://github.com/irxd/pad-unlock) | Kernel plugin that unlocks the lockscreen with a button press instead of a swipe |
 
@@ -39,7 +40,6 @@ When I'm not inside a screen, I'm usually holding a soldering iron. I experiment
 
 ```
  translating  Macross Delta Scramble             [███████████████░░░░░]  75%
- translating  Gundam Breaker                     [████████████░░░░░░░░]  60%
 ```
 
 <sub>Want to help with translation, testing, or proofreading? Open an issue on the repo, every bit helps.</sub>
